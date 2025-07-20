@@ -1,0 +1,25 @@
+TensorFlow, PyTorch, Huggingface Transformer
+generative models or experience with transformer-based architectures
+multi-GPU training, parallel computing, and designing generative AI solutions
+big data technologies and cloud platforms
+
+5. Vision Transformer (ViT)
+Use case: Image classification using transformers
+GitHub: https://github.com/google-research/vision_transformer
+Alternative PyTorch: https://github.com/lucidrains/vit-pytorch
+
+6. DINO / DINOv2 (Self-supervised Vision Transformer by Meta)
+Use case: Self-supervised learning for image and multimodal
+GitHub (DINO): https://github.com/facebookresearch/dino
+GitHub (DINOv2): https://github.com/facebookresearch/dinov2
+
+2. HuggingFace Transformers (Library for All Models)
+Use case: Universal transformer interface (BERT, GPT, T5, etc.)
+GitHub: https://github.com/huggingface/transformers
+Highlights: Easy training/inference, covers 100+ transformer models, NLP + Vision + Audio
+
+
+Naive Bayes
+SVM
+K-mean clustering(unsupervised)
+SQL, R
